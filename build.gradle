@@ -1,9 +1,15 @@
 plugins {
     id 'org.jetbrains.kotlin.jvm' version '1.3.31'
+    id "com.jfrog.bintray" version "1.+"
 }
 
-group 'br.com.uol.pagseguro'
+group 'io.mobthink'
 version '0.0.1'
+
+bintray {
+    user = System.getenv('BINTRAY_USER')
+    key = System.getenv('BINTRAY_KEY')
+}
 
 repositories {
     mavenCentral()
