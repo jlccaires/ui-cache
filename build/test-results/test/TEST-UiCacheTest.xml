@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UiCacheTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-06-25T16:56:28" hostname="ni-32776-2" time="0.788">
+  <properties/>
+  <testcase name="testGetNoValidCache" classname="UiCacheTest" time="0.63"/>
+  <testcase name="testGetValidCacheIgnoredByCustomValidator" classname="UiCacheTest" time="0.034"/>
+  <testcase name="testValidity" classname="UiCacheTest" time="0.006"/>
+  <testcase name="testWithoutCacheRequest" classname="UiCacheTest" time="0.022"/>
+  <testcase name="testClassId" classname="UiCacheTest" time="0.005"/>
+  <testcase name="testGetValidCacheIgnored" classname="UiCacheTest" time="0.016"/>
+  <testcase name="testGetValidCacheWithRequestError" classname="UiCacheTest" time="0.05"/>
+  <testcase name="testCustomId" classname="UiCacheTest" time="0.002"/>
+  <testcase name="testGetValidCache" classname="UiCacheTest" time="0.018"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
