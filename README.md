@@ -32,7 +32,7 @@ repositories {
   }
 
   maven {
-    url "https://github.com/pagseguro/pagseguro-android-sdk-checkout-in-app/raw/master/repositorio"
+    url "https://github.com/mobthink/ui-cache/raw/master/repositorio"
   }
 
   jcenter()
