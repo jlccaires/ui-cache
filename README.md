@@ -2,15 +2,8 @@
 Android/Kotlin cache for app's ui responisveness
 
 ## Requisitos
-Antes de iniciar o guia de integração com a Library Checkout in App é válido ressaltar alguns requisitos mínimos para funcionamento da Biblioteca.
 
 Versão Android: Android 4.x+;
-
-Aplicativo deve fazer uso da biblioteca de compatibilidade da Google Support Library AppCompact * v7;
-
-Conexão com internet;
-
-Deve ser usado device Android para realizar a integração, pois alguns recursos da lib não são suportados pelo emulador Android.
 
 Incluir corretamente a url do repositório da lib nos repositories do build.gradle, conforme o guia Instalação;
 
