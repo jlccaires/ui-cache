@@ -72,3 +72,5 @@ dependencies {
 ...
 }
 ```
+
+Observação: Em breve publicação do .aar
